@@ -13,3 +13,6 @@
 [submodule "FSM"]
 	path = FSM
 	url = https://github.com/stevenhernandezz/FSM
+[submodule "Exploring-Xlinix-Vivado-IDE-and-Zybo-Z7"]
+	path = Exploring-Xlinix-Vivado-IDE-and-Zybo-Z7
+	url = https://github.com/stevenhernandezz/Exploring-Xlinix-Vivado-IDE-and-Zybo-Z7
