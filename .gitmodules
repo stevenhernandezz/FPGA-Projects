@@ -7,3 +7,6 @@
 [submodule "VGA"]
 	path = VGA
 	url = https://github.com/stevenhernandezz/VGA
+[submodule "RAM-and-Buffer-of-FPGA"]
+	path = RAM-and-Buffer-of-FPGA
+	url = https://github.com/stevenhernandezz/RAM-and-Buffer-of-FPGA
