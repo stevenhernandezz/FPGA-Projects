@@ -4,3 +4,6 @@
 [submodule "Pulse-Width-Modulation-PWM-"]
 	path = Pulse-Width-Modulation-PWM-
 	url = https://github.com/stevenhernandezz/Pulse-Width-Modulation-PWM-
+[submodule "VGA"]
+	path = VGA
+	url = https://github.com/stevenhernandezz/VGA
